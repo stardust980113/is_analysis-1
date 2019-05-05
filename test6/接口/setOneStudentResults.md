@@ -24,7 +24,7 @@
         { 
             "student_id": "201510315203", 
             "total": 6,
-            "data": [
+            "data": 
                 {
                 "test_id":1,
                 "result": 91, 
